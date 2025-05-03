@@ -1,2 +1,2 @@
 # Ping-Pong
-very ping pongy
+very ping pong
